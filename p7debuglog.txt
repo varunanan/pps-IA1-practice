@@ -1,0 +1,7 @@
+gcc -g p7final.c
+./a.out
+Enter the Real part: 2
+Enter the Imaginary part: 3
+Enter the Real part: 4
+Enter the Imaginary part: 5
+The sum of 2.0 + 3.0i and 4.0 + 5.0i is 6.0 + 8.0i
