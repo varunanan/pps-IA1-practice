@@ -1,0 +1,9 @@
+gcc -g p8final.c
+./a.out
+enter the number of complex number
+1
+enter the complex number
+2
+3
+2.00+ 3.00i
+is 2.00 + 3.00i
