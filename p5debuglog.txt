@@ -1,0 +1,5 @@
+gcc -g p5final.c
+./a.out
+Enter a number
+2
+The square root of 2.000000 is 1.414214
